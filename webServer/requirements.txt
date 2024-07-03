@@ -2,3 +2,5 @@ Flask
 gunicorn #正式版的Web server
 google-generativeai
 python-dotenv
+line-bot-sdk
+requests
